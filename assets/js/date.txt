@@ -1,0 +1,49 @@
+/*let cl=console.log
+
+let minDigit=Math.min(12,100,25,78,-29)
+
+cl(minDigit)
+
+let maxDigit=Math.max(12,09,87,90.87,56,5555)
+cl(maxDigit)
+
+minDigit = Math.min(547,98,67.78,65,0.7666)
+cl(minDigit)
+
+maxDigit=Math.max(547,98,67.78,65,0.7666)
+cl(maxDigit)
+
+
+
+let date=new Date()
+cl(date)
+
+date=new Date(2000,0,19)
+cl(date)
+
+date=new Date(2000,0,19,20,30,15)
+cl(date)
+
+date=new Date("2000 january 19, 20:30:15")
+cl(date)
+
+date=new Date("19 january 2000, 20:30:15")
+cl(date)
+
+date=new Date(0)
+cl(date)
+
+let months=["jan","feb","march","april","may",]
+
+let daydate = new Date(2020,10,24);
+cl(daydate)
+
+let year = date.getFullYear(2000)
+cl(year)
+
+
+let month=months[date.getMonth()]
+cl(month)*/
+
+
+
